@@ -11,3 +11,7 @@ I calculated the proportions of recommendations in both time ranges. Between Mar
 I calculated the proportions of polarity scores in both time ranges. Between March 3rd and April 3rd, 33.8% of reviews had positive polarity score, 41.6% had negative polarity score, and 24.7% had polarity score 0. Between April 3rd and May 3rd, 31.7% of reviews had positive polarity score, 44.6% had negative polarity score, and 23.7% had polarity score 0. This indicates an increase in the use of negative language in reviews following the update.
 
 # Followup Analysis
+
+# Comments
+
+Warzone, with its original rendition of the map 'Verdansk', was launched on March 20th 2020. Subsequent map releases include the launch of the maps 'Caldera' on December 8th 2021, 'Al Mazrah' on November 16th 2022, and 'Urzikstan' on December 6th 2023. It was my hope to compare the reception of the game prior to and after each of these launches to that of the 'Verdansk' relaunch. However in the process of gathering data, I learned that Warzone was only released on Steam on November 16th 2022, which is why the followup analysis only accounts for reception of the game prior to and after the release of 'Urzikstan' and after the release of 'Al Mazrah'. It would be interesting to see analogous results for the launches of 'Al Mazrah' and 'Caldera', though at this time I am unaware of an alternative reliable source of reviews.
