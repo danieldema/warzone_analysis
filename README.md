@@ -22,7 +22,7 @@ Comparing to our results for 'Verdansk', we see that this map has a smaller incr
 
 On November 16th 2022, Activision launched the map 'Al Mazrah'. I used similar techniques as above to assess reviews posted between November 16th 2022 and December 16th 2022. This is also the first month for which 'Warzone' was available on Steam, so this consists of the game's first batch of Steam reviews.
 
-Of these reviews, 33.6% recommend the game, while 66.4% do not recommend the game (1987 versus 3918). Moreover, 38.6% of reviews had positive polarity score, 39.3% had negative polarity score, and 22% had polarity score zero. The higher proportion of recommendations and higher proportion of positive language in reviews compared to the months following the other two maps is possibly due to this being the game's first month on Steam.
+Of these reviews, 33.6% recommend the game, while 66.4% do not recommend the game (1987 versus 3918). Moreover, 38.6% of reviews had positive polarity score, 39.3% had negative polarity score, and 22% had polarity score zero. The higher proportion of recommendations and higher proportion of positive language in reviews compared to the months following the other two maps is possibly due to this being the game's first month on Steam. This likely also accounts for the much larger volume of reviews compared to those posted after the release of the other two maps.
 
 # Comments
 
